@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary About The Borwser
 #labels Featured,Phase-Deploy
 
 = E-Browser is a browser from the strong, swift and light on the system and do not cause any weight on Ram. It features that distinguish it does not need to Temp, History, .... etc like the rest of the known browsers. =
