@@ -1,0 +1,2 @@
+e-browser is a small and fast web browser with pop-up blocker and download maneger , and it's faster than usual browsers beside it doesn't use TEMP , or History like rest of browsers , and it can be used as PORTABEL version on your Flash , or even your memory card , and it work on any platform , WINDOWS ( with it's all versions + Win7 ) , MAC Os , linux ( ubentue , & Kubentue only )
+PLUS when you download it you got your free copy of  our antivirus for USB Flash cards .
